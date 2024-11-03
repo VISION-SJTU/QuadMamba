@@ -1,0 +1,17 @@
+torch # for full alignment 2.2.0
+torchvision
+torchaudio
+packaging
+triton
+timm==0.4.12
+pytest 
+chardet 
+yacs 
+termcolor
+submitit 
+tensorboardX
+fvcore
+seaborn
+# timm==0.5.4 # for s4nd
+# hydra-core # for s4nd
+# pytorch_lightning # for s4nd
