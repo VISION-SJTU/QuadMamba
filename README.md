@@ -3,7 +3,7 @@
 
 # QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model
 
-### Full code is in progress.
+#### Fixed the bugs in the code.
 
 <p align="center">
 <img src="assets/tease.png", width="90%">
@@ -103,4 +103,4 @@ bash ./tools/dist_train.sh </path/to/config> 8
 
 ## Acknowledgment
 
-This project is based on VMamba (Visual State Space Model, NeurIPS2024).
+This project is based on VMamba (Visual State Space Model, NeurIPS2024), LocalMamba, and DynamicViT. Thanks for their great work!
