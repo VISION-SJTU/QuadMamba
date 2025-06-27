@@ -100,6 +100,8 @@ bash ./tools/dist_train.sh </path/to/config> 8
 
 ## Citation
 
+If you find it useful, please consider to cite the paper, thanks!
+
 ```
 
 @article{xie2024quadmamba,
