@@ -103,4 +103,4 @@ bash ./tools/dist_train.sh </path/to/config> 8
 
 ## Acknowledgment
 
-This project is based on VMamba (Visual State Space Model, NeurIPS2024), LocalMamba, and DynamicViT. Thanks for their great work!
+This project is based on [VMamba](https://github.com/MzeroMiko/VMamba/tree/main) (Visual State Space Model, NeurIPS2024), [LocalMamba](https://arxiv.org/pdf/2403.09338), and [DynamicViT](https://arxiv.org/abs/2106.02034). Thanks for their great work!
