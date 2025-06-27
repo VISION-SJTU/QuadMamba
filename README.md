@@ -10,6 +10,9 @@
 
 #### If you have any questions, please don't hesitate to contact me. (jaffe031@sjtu.edu.cn)
 
+
+## Introduction of QuadMamba
+
 <p align="center">
 <img src="assets/tease.png", width="90%">
 </p>
@@ -42,6 +45,8 @@ generate the 1D sequence with negligible computational overhead.
 ## Getting Started
 
 ### Installation
+
+#### QuadMamba is based on the old version of VMamba; The installation can be referred to [VMamba](https://github.com/MzeroMiko/VMamba/tree/main). 
 
 **Environment Setup:**
 
