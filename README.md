@@ -106,4 +106,4 @@ If you find it useful, please consider to cite the paper, thanks!
 
 ## Acknowledgment
 
-This project is based on [VMamba](https://github.com/MzeroMiko/VMamba/tree/main) (Visual State Space Model, NeurIPS2024), [LocalMamba](https://arxiv.org/pdf/2403.09338), and [DynamicViT](https://arxiv.org/abs/2106.02034). Thanks for their great work!
+This project is based on [VMamba](https://github.com/MzeroMiko/VMamba/tree/main), [LocalMamba](https://arxiv.org/pdf/2403.09338), and [DynamicViT](https://arxiv.org/abs/2106.02034). Thanks for their great work!
