@@ -46,7 +46,7 @@ generate the 1D sequence with negligible computational overhead.
 
 ### Installation
 
-#### QuadMamba is based on the old version of VMamba; The installation can be referred to [VMamba](https://github.com/MzeroMiko/VMamba/tree/main). 
+QuadMamba is based on the old version of VMamba; The installation can be referred to [VMamba](https://github.com/MzeroMiko/VMamba/tree/main). 
 
 **Environment Setup:**
 
