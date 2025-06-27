@@ -3,12 +3,13 @@
 
 # QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model
 
+#### If you have any questions, please don't hesitate to contact me. (jaffe031@sjtu.edu.cn)
+
 - [x] 2024.10 QuadMamba is accepted by NeurIPS. 
 - [x] 2024.11 Release the raw code of QuadMamba. 
 - [x] 2025.06 Fixed the bugs in the code. 
 - [ ] 2025.06 Improve the QuadMamba scheme. 
 
-#### If you have any questions, please don't hesitate to contact me. (jaffe031@sjtu.edu.cn)
 
 
 ## Introduction of QuadMamba
