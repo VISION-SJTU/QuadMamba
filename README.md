@@ -8,7 +8,7 @@
 - [x] Fixed the bugs in the code. If you have any questions,
 - [ ] Improve the QuadMamba scheme. 
 
- please don't hesitate to contact me. (jaffe031@sjtu.edu.cn)
+#### please don't hesitate to contact me. (jaffe031@sjtu.edu.cn)
 
 <p align="center">
 <img src="assets/tease.png", width="90%">
