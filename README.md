@@ -5,6 +5,8 @@
 
 If you have any questions, please don't hesitate to contact me  (jaffe031@sjtu.edu.cn). 
 
+You can also refer to this github repository: [QuadMamba](https://github.com/phiphiphi31/QuadMamba/tree/main). 
+
 ## To Do List
 
 - [x] 2024.10 QuadMamba is accepted by NeurIPS. 
