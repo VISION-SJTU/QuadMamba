@@ -5,10 +5,10 @@
 
 - [x] QuadMamba is accepted by NeurIPS. 
 - [x] Release the raw code of QuadMamba. 
-- [x] Fixed the bugs in the code. If you have any questions,
+- [x] Fixed the bugs in the code. 
 - [ ] Improve the QuadMamba scheme. 
 
-#### please don't hesitate to contact me. (jaffe031@sjtu.edu.cn)
+#### If you have any questions, please don't hesitate to contact me. (jaffe031@sjtu.edu.cn)
 
 <p align="center">
 <img src="assets/tease.png", width="90%">
