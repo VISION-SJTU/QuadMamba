@@ -3,7 +3,7 @@
 
 # QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model
 
--[] Fixed the bugs in the code. If you have any questions, please don't hesitate to contact me. (jaffe031@sjtu.edu.cn)
+- [ ] Fixed the bugs in the code. If you have any questions, please don't hesitate to contact me. (jaffe031@sjtu.edu.cn)
 
 <p align="center">
 <img src="assets/tease.png", width="90%">
