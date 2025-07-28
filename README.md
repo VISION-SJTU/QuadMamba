@@ -33,6 +33,16 @@ Quadtree-based selective scan with prediction modules. Image tokens are partitio
 bi-level window quadrants from coarse to fine. A fully differentiable partition mask is then applied to
 generate the 1D sequence with negligible computational overhead.
 
+
+
+### **Classification on ImageNet-1K**
+| name | pretrain | resolution |acc@1 | #params | FLOPs | configs/logs/ckpts |
+| :---: | :---: | :---: | :---: | :---: | :---:  | :---: |
+| QuadMamba-v3 | ImageNet-1K | 224x224 | 82.2 | 30M | 5.5G | [BaiduNetDisk/password=6dwu](https://pan.baidu.com/s/1yBrq6Zn3WzgZ7kYbvuIPBA?pwd=6dwu) |
+| QuadMamba-v1 | ImageNet-1K | 224x224 | 75.5 | 6.5M | 1.1G  | [BaiduNetDisk/password=6dwu](https://pan.baidu.com/s/1yBrq6Zn3WzgZ7kYbvuIPBA?pwd=6dwu)  |
+
+
+
 ## Getting Started
 
 ### Installation
