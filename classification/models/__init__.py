@@ -36,7 +36,7 @@ def build_vssm_model(config, is_pretrain=False):
             ssm_drop_rate=config.MODEL.VSSM.SSM_DROP_RATE,
             ssm_init=config.MODEL.VSSM.SSM_INIT,
             forward_type=config.MODEL.VSSM.SSM_FORWARDTYPE,
-            gated_structure=config.MODEL.VSSM.GATED_STRUCTURE,
+            # gated_structure=config.MODEL.VSSM.GATED_STRUCTURE,
             multi_scale = config.MODEL.VSSM.MULTI_SCALE,
             # ===================
             mlp_ratio=config.MODEL.VSSM.MLP_RATIO,
